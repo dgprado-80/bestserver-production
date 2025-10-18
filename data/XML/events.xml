@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event name="Double loot and half death penalties" startdate="10/11/2025" enddate="10/13/2025" script="" >
+		<ingame exprate="100" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+		<description description="Double loot e penalidades de morte pela metade" />
+		<colors colordark="#235c00" colorlight="#2d7400" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+	<event name="Sorteio automatico de premios" startdate="10/12/2025" enddate="10/12/2025" script="" >
+		<ingame exprate="100" lootrate="100" bosslootrate="100" spawnrate="100" skillrate="100" />
+		<description description="Sorteio automatico de super items de 3 em 3 horas" />
+		<colors colordark="#934D10" colorlight="#8B6D05" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+		<event name="Double Xp" startdate="10/18/2025" enddate="10/20/2025" script="" >
+		<ingame exprate="150" lootrate="100" bosslootrate="100" spawnrate="100" skillrate="100" />
+		<description description="Double Xp ate segunda as 10:00" />
+		<colors colordark="#534D20" colorlight="#5B6D05" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+</events>

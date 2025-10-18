@@ -1,0 +1,14 @@
+-- Remove
+--{
+    -- wand of dimensions
+--    itemid = 44741,
+--    type = WEAPON_WAND,
+--    wandType = "death",
+--    level = 37,
+--    mana = 9,
+--    damage = {44, 62},
+--    vocation = {
+--        {"Sorcerer", true},
+--        {"Master Sorcerer"}
+--    }
+--},

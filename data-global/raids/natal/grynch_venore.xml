@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+	<announce delay="1000" type="event" message="Goblins of the infamous Grynch Clan are invading Venore to steal all presents, beware!" />
+	<announce delay="10000" type="event" message="The Goblins sometimes have stolen presents with them! Confiscate them!" />
+	<areaspawn delay="15000" fromx="33012" fromy="32052" fromz="6" tox="32861" toy="32126" toz="6">
+		<monster name="grynch clan goblin" amount="100" />
+		<monster name="grynch clan goblin" amount="50" />
+	</areaspawn>
+	<announce delay="120000" type="event" message="Return the stolen presents to Ruprecht on Vega at Santa's home for a reward." />
+	<areaspawn delay="125000" fromx="33012" fromy="32052" fromz="6" tox="32861" toy="32126" toz="6">
+		<monster name="grynch clan goblin" amount="100" />
+		<monster name="grynch clan goblin" amount="50" />
+	</areaspawn>
+</raid>
