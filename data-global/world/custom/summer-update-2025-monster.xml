@@ -172,10 +172,6 @@
 		<monster name="Earth Elemental" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Vampire" x="1" y="2" z="4" spawntime="60" />
 	</monster>
-	<monster centerx="33262" centery="31825" centerz="4" radius="5">
-		<monster name="Snake" x="0" y="0" z="4" spawntime="60" />
-		<monster name="Rat" x="-4" y="1" z="4" spawntime="60" />
-	</monster>
 	<monster centerx="32943" centery="31414" centerz="5" radius="5">
 		<monster name="Varg" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Gloom Maw" x="-2" y="1" z="5" spawntime="60" />
