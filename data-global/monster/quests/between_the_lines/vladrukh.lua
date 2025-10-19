@@ -68,21 +68,21 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "crystal coin", chance = 7500, maxCount = 3 },
-	{ name = "platinum coin", chance = 7500, maxCount = 138 },
-	{ name = "greater proficiency catalyst", chance = 6000 },
-	{ name = "blood preservation", chance = 5500 },
-	{ name = "supreme health potion", chance = 5000, maxCount = 5 },
-	{ name = "ultimate mana potion", chance = 4800, maxCount = 29 },
-	{ name = "great mana potion", chance = 4000, maxCount = 6 },
-	{ name = "strong mana potion", chance = 3800, maxCount = 14 },
-	{ name = "ultimate spirit potion", chance = 3800, maxCount = 4 },
-	{ name = "great spirit potion", chance = 3800, maxCount = 15 },
-	{ name = "skull belt", chance = 3500 },
-	{ name = "blood sceptre", chance = 3200 },
-	{ name = "giant emerald", chance = 3000 },
-	{ id = 3039, chance = 3000 }, -- red gem
-	{ id = 3037, chance = 3000 }, -- yellow gem
+	{ name = "gold coin", chance = 3000, maxCount = 100 },
+	{ name = "platinum coin", chance = 3000, maxCount = 138 },
+	{ name = "greater proficiency catalyst", chance = 2000 },
+	{ name = "blood preservation", chance = 1500 },
+	{ name = "supreme health potion", chance = 1500, maxCount = 5 },
+	{ name = "ultimate mana potion", chance = 1500, maxCount = 29 },
+	{ name = "great mana potion", chance = 1000, maxCount = 6 },
+	{ name = "strong mana potion", chance = 1000, maxCount = 14 },
+	{ name = "ultimate spirit potion", chance = 1000, maxCount = 4 },
+	{ name = "great spirit potion", chance = 1000, maxCount = 15 },
+	{ name = "skull belt", chance = 500 },
+	{ name = "blood sceptre", chance = 500 },
+	{ name = "giant emerald", chance = 500 },
+	{ name = "red gem", chance = 500 },
+	{ name = "yellow gem", chance = 500 },
 }
 
 -- missing spells

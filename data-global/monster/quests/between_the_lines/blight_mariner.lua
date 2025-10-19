@@ -72,21 +72,22 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 7500, maxCount = 63 },
-	{ name = "black pearl", chance = 6000 },
-	{ name = "white pearl", chance = 5000 },
-	{ name = "onyx chip", chance = 4800, maxCount = 2 },
-	{ id = 3050, chance = 3000 }, -- power ring
-	{ id = 3091, chance = 3000 }, -- sword ring
-	{ name = "proficiency catalyst", chance = 3500 },
-	{ name = "crystalline armor", chance = 3200 },
-	{ name = "two handed sword", chance = 3000 },
-	{ id = 6299, chance = 3000 }, -- death ring
-	{ name = "moonstone", chance = 3000 },
-	{ name = "terra legs", chance = 3000 },
-	{ name = "terra boots", chance = 3000 },
-	{ name = "small topaz", chance = 3000, maxCount = 5 },
-	{ name = "strange helmet", chance = 2000 },
+	{ name = "gold coin", chance = 3000, maxCount = 100 },
+	{ name = "platinum coin", chance = 3000, maxCount = 63 },
+	{ name = "black pearl", chance = 2000 },
+	{ name = "white pearl", chance = 2000 },
+	{ name = "onyx chip", chance = 1500, maxCount = 2 },
+	{ name = "power ring", chance = 1000 },
+	{ name = "sword ring", chance = 1000 },
+	{ name = "proficiency catalyst", chance = 1000 },
+	{ name = "crystalline armor", chance = 500 },
+	{ name = "two handed sword", chance = 500 },
+	{ name = "death ring", chance = 500 },
+	{ name = "moonstone", chance = 500 },
+	{ name = "terra legs", chance = 500 },
+	{ name = "terra boots", chance = 500 },
+	{ name = "small topaz", chance = 500, maxCount = 5 },
+	{ name = "strange helmet", chance = 100 },
 	{ name = "cyan crystal fragment", chance = 2000 },
 	{ name = "dark armor", chance = 2000 },
 }

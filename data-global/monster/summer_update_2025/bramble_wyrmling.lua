@@ -42,13 +42,13 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "crystal coin", chance = 60590, maxCount = 85 },
-	{ name = "platinum coin", chance = 40590, maxCount = 10 },
-	{ name = "small emerald", chance = 2500, maxCount = 4 },
-	{ name = "green crystal fragment", chance = 1900, maxCount = 2 },
-	{ name = "book with a dragon", chance = 1600 },
-	{ name = "terra hood", chance = 1200 },
-	{ id = 3038, chance = 800 }, -- green gem
+	{ name = "gold coin", chance = 3000, maxCount = 100 },
+	{ name = "platinum coin", chance = 3000, maxCount = 10 },
+	{ name = "small emerald", chance = 2000, maxCount = 4 },
+	{ name = "green crystal fragment", chance = 1500, maxCount = 3 },
+	{ name = "book with a dragon", chance = 1000 },
+	{ name = "green gem", chance = 500 },
+	{ name = "terra hood", chance = 100 },
 }
 
 monster.attacks = {

@@ -42,16 +42,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "crystal coin", chance = 60590, maxCount = 85 },
-	{ name = "platinum coin", chance = 40590, maxCount = 10 },
-	{ name = "small ruby", chance = 5590 },
-	{ name = "red crystal fragment", chance = 3030 },
-	{ name = "book with a dragon", chance = 2500 }, -- new item
-	{ name = "wand of dragonbreath", chance = 1900 },
-	{ name = "magma coat", chance = 1000 },
-	{ name = "magma monocle", chance = 1000 },
-	{ name = "dragon shield", chance = 1000 },
-	{ id = 3039, chance = 800 }, -- red gem
+	{ name = "gold coin", chance = 3000, maxCount = 100 },
+	{ name = "platinum coin", chance = 3000, maxCount = 10 },
+	{ name = "small ruby", chance = 2000, maxCount = 4 },
+	{ name = "red crystal fragment", chance = 1500, maxCount = 3 },
+	{ name = "book with a dragon", chance = 1000 },
+	{ name = "wand of dragonbreath", chance = 500 },
+	{ name = "red gem", chance = 500 },
+	{ name = "magma coat", chance = 100 },
+	{ name = "magma monocle", chance = 100 },
+	{ name = "dragon shield", chance = 100 },
 }
 
 monster.attacks = {

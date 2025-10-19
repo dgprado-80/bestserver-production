@@ -42,19 +42,19 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 60590, maxCount = 100 },
-	{ name = "platinum coin", chance = 40590, maxCount = 15 },
-	{ name = "small sapphire", chance = 1600, maxCount = 2 },
-	{ name = "paper boat", chance = 2000 }, -- new item
-	{ name = "star ink", chance = 1400 }, -- new item
-	{ name = "hailstorm rod", chance = 1000 },
-	{ name = "grapes", chance = 800 },
-	{ name = "blue crystal splinter", chance = 600 },
-	{ name = "glacier amulet", chance = 600 },
-	{ name = "glacier shoes", chance = 600 },
-	{ name = "blue crystal shard", chance = 600 },
-	{ name = "etcher", chance = 600 },
-	{ name = "blue gem", chance = 400 },
+	{ name = "gold coin", chance = 3000, maxCount = 100 },
+	{ name = "platinum coin", chance = 3000, maxCount = 15 },
+	{ name = "small sapphire", chance = 2000, maxCount = 2 },
+	{ name = "paper boat", chance = 1500 },
+	{ name = "star ink", chance = 1000 },
+	{ name = "hailstorm rod", chance = 500 },
+	{ name = "grapes", chance = 500 },
+	{ name = "blue crystal splinter", chance = 300 },
+	{ name = "glacier amulet", chance = 300 },
+	{ name = "glacier shoes", chance = 300 },
+	{ name = "blue crystal shard", chance = 300 },
+	{ name = "etcher", chance = 300 },
+	{ name = "blue gem", chance = 100 },
 }
 
 monster.attacks = {
