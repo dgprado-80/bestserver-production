@@ -70,10 +70,10 @@ local primalItems = {
 }
 
 local tradeOptions = {
-    ["health"] = {points = 10, item = 49163, message = "health/mana boost"},
-    ["regen"] = {points = 5, item = 49162, message = "regeneration boost"},
-    ["skill"] = {points = 7, item = 47978, message = "skill boost"},
-    ["critical"] = {points = 15, item = 47976, message = "critical hit boost"}  -- Nova runa de Critical Hit Boost
+    ["health"] = {points = 10, item = 51964, message = "health/mana boost"},
+    ["regen"] = {points = 5, item = 51965, message = "regeneration boost"},
+    ["skill"] = {points = 7, item = 51962, message = "skill boost"},
+    ["critical"] = {points = 15, item = 51963, message = "critical hit boost"}  -- Nova runa de Critical Hit Boost
 }
 
 local confirmationTopic = {}
