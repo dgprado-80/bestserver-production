@@ -41,6 +41,9 @@ local outfitConfig = {
 	-- Fiend Slayer
 	[50060] = { female = 1808, male = 1809, addon = 1, orangeText = "You receive the first Fiend Slayer addon" },
 	[50061] = { female = 1808, male = 1809, addon = 2, orangeText = "You receive the second Fiend Slayer addon" },
+	-- illuminator
+	[51656] = { female = 1861, male = 1860, addon = 1, achievement = "Illuminator", whiteText = "Your illuminator robes look more impressive now." },
+	[51657] = { female = 1861, male = 1860, addon = 2, achievement = "Illuminator", whiteText = "Your illuminator robes look more impressive now." },
 }
 	
 
