@@ -7,10 +7,10 @@ local buffs = {
 
 -- IDs dos itens que serão usados
 local itemIDs = {
-    healthManaBoostItem = 49163,  -- Item ID para Health/Mana Boost
-    regenBoostItem = 49162,       -- Item ID para Regen Boost
-    skillBoostItem = 47978,       -- Item ID para Skill Boost
-    criticalHitBoostItem = 47976  -- Item ID para Critical Hit Boost
+    healthManaBoostItem = 51964,  -- Item ID para Health/Mana Boost
+    regenBoostItem = 51965,       -- Item ID para Regen Boost
+    skillBoostItem = 51962,       -- Item ID para Skill Boost
+    criticalHitBoostItem = 51963  -- Item ID para Critical Hit Boost
 }
 
 -- Função auxiliar para remover o item de qualquer lugar (mochila ou chão)
