@@ -77516,22 +77516,22 @@ Granted by TibiaGoals.com"/>
 		<attribute key="description" value="You can apply the maximum tier to any item.Just move the item after apply the tier."/>
 		<attribute key="weight" value="200"/>
 	</item>
-		<item id="49163" article="a" name="health mana points rune">
+		<item id="51964" article="a" name="health mana points rune">
 		<attribute key="primarytype" value="magical items"/>
 		<attribute key="description" value="This increases your health and mana points by 30% for 5 days."/>
 		<attribute key="weight" value="210"/>
 	</item>
-		<item id="49162" article="a" name="regeneration boost rune">
+		<item id="51965" article="a" name="regeneration boost rune">
 		<attribute key="primarytype" value="magical items"/>
 		<attribute key="description" value="This increases your regenaration for 5 days."/>
 		<attribute key="weight" value="210"/>
 	</item>
-		<item id="47978" article="a" name="skill boost rune">
+		<item id="51962" article="a" name="skill boost rune">
 		<attribute key="primarytype" value="magical items"/>
 		<attribute key="description" value="This increases your skill by 10 for 5 days."/>
 		<attribute key="weight" value="210"/>
 	</item>
-		<item id="47976" article="a" name="critical hit boost rune">
+		<item id="51963" article="a" name="critical hit boost rune">
 		<attribute key="primarytype" value="magical items"/>
 		<attribute key="description" value="This increases your critical hit chance in 10% of 15% extra damage"/>
 		<attribute key="weight" value="210"/>
